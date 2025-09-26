@@ -6,8 +6,8 @@
     "updateUrl": "https://t.me/fotball_kora",
     "title": "App Has Expired",
     "description": "Your app version is too old and no longer supported. Please update to the latest version.",
-    "isForce": true,
-    "isExpired": true,
+    "isForce": false,
+    "isExpired": false,
     "expiryDate": "2025-09-01",
     "closeButtonText": "خروج",
     "updateButtonText": "إظغط للتحديث"
