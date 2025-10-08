@@ -2,14 +2,14 @@
   {
     "appName": "CapCut",
     "packageName": "com.lemon.lvoverseas",
-    "versionCode": 16506930,
+    "versionCode": 15606930,
     "updateUrl": "https://t.me/fotball_kora",
-    "title": "App Has Expired",
-    "description": "Your app version is too old and no longer supported. Please update to the latest version.",
+    "title": "تم تنزيل اصدار جديد v33.3.3!",
+    "description": "يتوفر تحديث جديد.\n1.تم اصلاح المشاكل\n2.القوالب وكل شيء شغال\n4.يرجى التحديث الى احدث اصدار",
     "isForce": false,
     "isExpired": false,
-    "expiryDate": "2025-09-01",
-    "closeButtonText": "خروج",
-    "updateButtonText": "إظغط للتحديث"
+    "expiryDate": "2021-09-01",
+    "closeButtonText": "Exit",
+    "updateButtonText": "Update Now!"
   }
-]
+  ]
